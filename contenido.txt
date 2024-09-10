@@ -1,0 +1,10 @@
+copiacuarto.txt
+cuarto.txt
+folder1
+folder1/hola.txt
+folder1/adios.txt
+folder1/abc.txt
+primero.txt
+segundo.txt
+tercero.txt
+vacio.txt
